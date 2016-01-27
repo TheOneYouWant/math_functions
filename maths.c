@@ -21,7 +21,7 @@ float mult (float x, float y)
 }
 
 
-float remainder(float x, float y)
+float rmainder(float x, float y)
 {
     return x % y;
 }
